@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "moneroxcpvp-9WV9.aternos.me:61311",
+    "port":  61311,
     "version": "",
     "try-creative": false
   },
